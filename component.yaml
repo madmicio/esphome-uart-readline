@@ -1,0 +1,4 @@
+name: "Uart Read Line Sensor"
+description: "A UART sensor that reads lines from serial input"
+version: "1.0"
+dependencies: []
