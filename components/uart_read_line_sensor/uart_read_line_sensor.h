@@ -56,4 +56,5 @@ class UartReadLineSensor : public Component, public UARTDevice, public TextSenso
       }
     }
   }
+  
 };
